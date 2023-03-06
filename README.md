@@ -3,6 +3,8 @@
     <h1>LarsMans</h1>
 </div>
 
+<br>
+
 I'm a dev at **[Team Diopside](https://github.com/TeamDiopside)** and I make Minecraft stuff!
 
 I made the mod **[Infinity Buttons](https://modrinth.com/mod/infinitybuttons)**, and another one is currently in the works.
