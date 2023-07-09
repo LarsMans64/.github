@@ -6,9 +6,9 @@
 <br>
 
 I'm a dev at **[Team Diopside](https://github.com/TeamDiopside)** and I make Minecraft stuff!
-I made the mod **[Infinity Buttons](https://modrinth.com/mod/infinitybuttons)**, and another one is currently in the works.
+We've made **[Infinity Buttons](https://modrinth.com/mod/infinitybuttons)**, **[Seamless](https://modrinth.com/mod/seamless)** and more.
 
-I've also made some **[PICO-8](https://www.lexaloffle.com/bbs/?uid=75976)** things.
+I've also done some **[PICO-8](https://www.lexaloffle.com/bbs/?uid=75976)** stuff.
 
 ## Links
 
